@@ -15,7 +15,7 @@ public class PartB {
        switch(ch){
 
          case 1:
-             System.out.println("Enetr a number:");
+             System.out.println("Enter a number:");
              int num=sc.nextInt();
 
              if(num%2==0){
@@ -44,7 +44,7 @@ public class PartB {
             break;
 
          case 3:
-            System.out.println("enetr teh percentage:");
+            System.out.println("enter teh percentage:");
             double per=sc.nextDouble();
 
             if(per>=90){
